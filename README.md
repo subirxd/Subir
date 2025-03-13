@@ -45,24 +45,7 @@
 </p>
 
 ---
-
-### 🚀 **Top Repositories**
-<p align="center">
-  <a href="https://github.com/SudiptaMondal/DSA-Patterns">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudiptaMondal&repo=DSA-Patterns&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SudiptaMondal/MERN-Project">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudiptaMondal&repo=MERN-Project&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 📌 Notable Projects  
-🔹 **[Leetcode Progress Tracker](https://github.com/SudiptaMondal/Leetcode-Tracker)** – AI-powered DSA progress tracking tool.  
-🔹 **[Job Tracker App](https://github.com/SudiptaMondal/Job-Tracker)** – Simplifies job applications using the MERN stack.  
-🔹 **E-Commerce Platform** – Full-stack application with an **admin dashboard** for product management.  
-🔹 **Custom DSA Pattern Notebook** – Repository for **common DSA patterns & solutions**.  
+ 
 
 ---
 
