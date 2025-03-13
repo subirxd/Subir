@@ -1,20 +1,90 @@
-<h1>Hi 👋, I'm Sudipta Mondal</h1>
-<p>Full-Stack Developer | DSA Problem-Solver </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Zer0_UwU_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sudipta-mondal-95b82a160/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subirxd&show_icons=true&locale=en" alt="subirxd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subirxd&" alt="subirxd" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=subirxd&show_icons=true&locale=en&layout=compact" alt="subirxd" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subirxd" alt="subirxd" /></a></p>
+<h1 align="center">Hi there! 👋 I'm Sudipta Mondal</h1>
+
+<p align="center">
+🚀 <strong>Full-Stack MERN Developer | DSA Enthusiast | C++ Coder</strong> 🚀  
+</p>
+
+---
+
+### 👨‍💻 About Me  
+🔹 Passionate **MERN Stack Developer**, building scalable web applications.  
+🔹 Love solving **Data Structures & Algorithms (DSA) problems** using **C++**.  
+🔹 Enthusiastic about **Web Performance Optimization & Backend Architecture**.  
+🔹 Always open to **collaborating on exciting projects** and learning new technologies!  
+
+---
+
+### 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipta-mondal-95b82a160/)  
+[![Twitter/X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Zer0_UwU_)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiptawork99@gmail.com)  
+
+---
+
+### 🛠 **Tech Stack**
+#### 💻 **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+#### 🌐 **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+#### 🛠 **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudiptaMondal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SudiptaMondal&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 **Top Repositories**
+<p align="center">
+  <a href="https://github.com/SudiptaMondal/DSA-Patterns">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudiptaMondal&repo=DSA-Patterns&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SudiptaMondal/MERN-Project">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudiptaMondal&repo=MERN-Project&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📌 Notable Projects  
+🔹 **[Leetcode Progress Tracker](https://github.com/SudiptaMondal/Leetcode-Tracker)** – AI-powered DSA progress tracking tool.  
+🔹 **[Job Tracker App](https://github.com/SudiptaMondal/Job-Tracker)** – Simplifies job applications using the MERN stack.  
+🔹 **E-Commerce Platform** – Full-stack application with an **admin dashboard** for product management.  
+🔹 **Custom DSA Pattern Notebook** – Repository for **common DSA patterns & solutions**.  
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SudiptaMondal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SudiptaMondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=SudiptaMondal&icon=1&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### 🚀 What's Next?  
+✔ Building **scalable MERN applications** with advanced features  
+✔ Exploring **System Design & Optimized Backend Architectures**  
+
+---
+
+⭐ **Let's build something amazing together!** 🚀
